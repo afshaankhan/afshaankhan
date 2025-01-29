@@ -1,4 +1,7 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Languages I Use" /></p>
+<p align="center">
+  <img width="30%" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding in Action" />
+</p>
+
 
 <h2 align="center">Welcome! I'm Afshaan Khan</h2>
 
