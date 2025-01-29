@@ -1,5 +1,13 @@
 <p align="center">
-  <img width="30%" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding in Action" />
+  <img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Languages I Use" />
+</p>
+
+<p align="center">
+  🚀 <strong>Data Enthusiast | AI Explorer | Tech Innovator</strong> 🚀  
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" alt="AI and Data Science">
 </p>
 
 
