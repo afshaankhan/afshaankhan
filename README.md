@@ -18,7 +18,7 @@
 - 👨🏽‍💻 I’m interested in **Machine Learning, NLP, AI, and Healthcare Analytics**.
 - 💬 Ask me about **data science, AI, and Python development**—I’d love to help!
 - 📫 **Reach out via email**: [akhan38@umbc.edu](mailto:akhan38@umbc.edu)
-- 📝 **[My Résumé](https://your-resume-link.com)**  
+- 📝 **[My Résumé]([https://your-resume-link.com](https://www.datascienceportfol.io/akhan38))**  
 
 <br/>
 <br/>
