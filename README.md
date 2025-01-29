@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" alt="AI and Data Science">
-
 <p align="center">
   <img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Languages I Use" />
 </p>
