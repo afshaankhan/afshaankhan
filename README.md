@@ -1,13 +1,13 @@
 <p align="center">
-  <img width="35%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Tech Stack" />
+  <img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Languages I Use" />
 </p>
 
 <p align="center">
-  <strong>🚀 Transforming Data into Insights | AI & ML Enthusiast | Innovating with Code 🚀</strong>
+  🚀 <strong>Data Enthusiast | AI Explorer | Tech Innovator</strong> 🚀  
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="45%" alt="Data Science & AI">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" alt="AI and Data Science">
 </p>
 
 
