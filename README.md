@@ -1,14 +1,15 @@
 <p align="center">
-  <img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Languages I Use" />
+  <img width="35%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  🚀 <strong>Data Enthusiast | AI Explorer | Tech Innovator</strong> 🚀  
+  <strong>🚀 Transforming Data into Insights | AI & ML Enthusiast | Innovating with Code 🚀</strong>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" alt="AI and Data Science">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="45%" alt="Data Science & AI">
 </p>
+
 
 
 <h2 align="center">Welcome! I'm Afshaan Khan</h2>
