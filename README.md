@@ -18,8 +18,6 @@
   I'm <strong>Afshaan Khan</strong>, a passionate engineer focused on building scalable systems, intelligent data pipelines, and automation-driven applications.  
   I thrive at the intersection of <strong>Software Engineering, AI Integration, and Cloud Computing</strong> designing efficient APIs, automating workflows, and optimizing distributed systems.  
   Outside of coding, I enjoy experimenting with AI agents, automating real-world tasks, and writing about future tech.  
-
-  <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />
   
 <br/><br/><br/>
 
