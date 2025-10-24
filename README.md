@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  ⚙️ <strong>Software Engineer | AI & Data Infrastructure</strong> ⚙️
+  <strong>Software Engineer | AI & Data Infrastructure</strong>
 </p>
 
 <p align="center">
@@ -13,23 +13,23 @@
 <h2 align="center">Welcome! I'm Afshaan Khan 👋</h2>
 
 <p align='center'>
-  💻 <strong>Software Engineer specializing in Full Stack & Data Infrastructure</strong> 💻 <br/>
+  <strong>Software Engineer specializing in Full Stack & Data Infrastructure</strong> <br/>
 
   I'm <strong>Afshaan Khan</strong>, a passionate engineer focused on building scalable systems, intelligent data pipelines, and automation-driven applications.  
   I thrive at the intersection of <strong>Software Engineering, AI Integration, and Cloud Computing</strong> designing efficient APIs, automating workflows, and optimizing distributed systems.  
   Outside of coding, I enjoy experimenting with AI agents, automating real-world tasks, and writing about future tech.  
   
 <br/><br/><br/>
-- 👨‍💻 Currently building automation systems & data apps at **Kahana**.  
-- 🚀 Interested in **AI Engineering, Full Stack, Cloud Infrastructure, LLM Apps, and Data Engineering**.  
-- 💬 Ask me about **APIs, distributed systems, and AI integrations** — I love deep technical discussions!  
-- 📫 Reach me at **[akhan38@umbc.edu](mailto:akhan38@umbc.edu)**   
+- Currently building automation systems & data apps at **Kahana**.  
+- Interested in **AI Engineering, Full Stack, Cloud Infrastructure, LLM Apps, and Data Engineering**.  
+- Ask me about **APIs, distributed systems, and AI integrations** — I love deep technical discussions!  
+- Reach me at **[akhan38@umbc.edu](mailto:akhan38@umbc.edu)**   
 <br/><br/><br/>
 </p>
 
 ---
 
-### 🧠 Core Competencies:
+### Core Competencies:
 - **Programming & Backend Development:**  
   Python, Java, C++, JavaScript (Node.js, React), C#, REST APIs, Flask, FastAPI, Spring Boot  
 - **Data Engineering & Infrastructure:**  
@@ -41,7 +41,7 @@
 
 ---
 
-### 🌐 Portfolio and Contributions:
+### Portfolio and Contributions:
 - [LinkedIn](https://www.linkedin.com/in/afshaankhan/)
 - [GitHub](https://github.com/afshaankhan)
 - [LeetCode](https://leetcode.com/afshaankhan/)
@@ -49,7 +49,7 @@
 
 ---
 
-### 🧩 Tools & Technologies:
+### Tools & Technologies:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -66,5 +66,5 @@
 
 ---
 
-💡 **"Code is poetry in logic — elegant, structured, and endlessly evolving."**  
-🚀 Always building. Always optimizing. Always learning.
+ **"Code is poetry in logic — elegant, structured, and endlessly evolving."**  
+Always building. Always optimizing. Always learning.
