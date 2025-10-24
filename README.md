@@ -49,7 +49,7 @@
 - [LinkedIn](https://www.linkedin.com/in/afshaankhan/)
 - [GitHub](https://github.com/afshaankhan)
 - [LeetCode](https://leetcode.com/afshaankhan/)
-- [Medium Blogs](https://medium.com/@afshaankhan/)
+- [Medium Blogs](https://medium.com/@akhan38)
 
 ---
 
