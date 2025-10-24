@@ -42,7 +42,7 @@
 ---
 
 ### Portfolio and Contributions:
-- [LinkedIn](https://www.linkedin.com/in/afshaan-khan/)
+- [LinkedIn](https://www.linkedin.com/in/afshaan-khan)
 - [GitHub](https://github.com/afshaankhan)
 - [LeetCode](https://leetcode.com/afshaankhan/)
 - [Medium Blogs](https://medium.com/@akhan38)
