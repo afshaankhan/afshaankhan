@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  ⚙️ <strong>Software Engineer | Backend Systems | AI & Data Infrastructure</strong> ⚙️
+  ⚙️ <strong>Software Engineer | AI & Data Infrastructure</strong> ⚙️
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <h2 align="center">Welcome! I'm Afshaan Khan 👋</h2>
 
 <p align='center'>
-  💻 <strong>Software Engineer specializing in Backend Development & Data Infrastructure</strong> 💻 <br/>
+  💻 <strong>Software Engineer specializing in Full Stack & Data Infrastructure</strong> 💻 <br/>
 
   I'm <strong>Afshaan Khan</strong>, a passionate engineer focused on building scalable systems, intelligent data pipelines, and automation-driven applications.  
   I thrive at the intersection of <strong>Software Engineering, AI Integration, and Cloud Computing</strong> — designing efficient APIs, automating workflows, and optimizing distributed systems.  
@@ -23,11 +23,10 @@
   
 <br/><br/><br/>
 
-- 👨‍💻 Currently building automation systems & data apps at **Kahana** and **BusySquirrels (Vivian Contracting LLC)**.  
-- 🚀 Interested in **Backend Systems, Cloud Infrastructure, LLM Apps, and Data Engineering**.  
+- 👨‍💻 Currently building automation systems & data apps at **Kahana**.  
+- 🚀 Interested in **AI Engineering, Full Stack, Cloud Infrastructure, LLM Apps, and Data Engineering**.  
 - 💬 Ask me about **APIs, distributed systems, and AI integrations** — I love deep technical discussions!  
-- 📫 Reach me at **[akhan38@umbc.edu](mailto:akhan38@umbc.edu)**  
-- 🧾 **[My Résumé](https://www.datascienceportfol.io/akhan38)**  
+- 📫 Reach me at **[akhan38@umbc.edu](mailto:akhan38@umbc.edu)**   
 
 <br/><br/><br/>
 </p>
@@ -50,7 +49,7 @@
 - [LinkedIn](https://www.linkedin.com/in/afshaankhan/)
 - [GitHub](https://github.com/afshaankhan)
 - [LeetCode](https://leetcode.com/afshaankhan/)
-- [Medium Blogs](https://medium.com/@afshaankhan) *(Coming soon — AI, Automation & Systems Design)*
+- [Medium Blogs]([https://medium.com/@afshaankhan](https://medium.com/@akhan38)) 
 
 ---
 
