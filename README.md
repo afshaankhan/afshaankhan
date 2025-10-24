@@ -20,12 +20,10 @@
   Outside of coding, I enjoy experimenting with AI agents, automating real-world tasks, and writing about future tech.  
   
 <br/><br/><br/>
-
 - 👨‍💻 Currently building automation systems & data apps at **Kahana**.  
 - 🚀 Interested in **AI Engineering, Full Stack, Cloud Infrastructure, LLM Apps, and Data Engineering**.  
 - 💬 Ask me about **APIs, distributed systems, and AI integrations** — I love deep technical discussions!  
 - 📫 Reach me at **[akhan38@umbc.edu](mailto:akhan38@umbc.edu)**   
-
 <br/><br/><br/>
 </p>
 
