@@ -3,49 +3,46 @@
 </p>
 
 <p align="center">
-  🚀 <strong>Data Enthusiast | AI Explorer | Tech Innovator</strong> 🚀  
+  ⚙️ <strong>Software Engineer | Backend Systems | AI & Data Infrastructure</strong> ⚙️
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" alt="AI and Data Science">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" alt="Software Engineering and DevOps">
 </p>
 
-
-
-<h2 align="center">Welcome! I'm Afshaan Khan</h2>
+<h2 align="center">Welcome! I'm Afshaan Khan 👋</h2>
 
 <p align='center'>
-  🎓 <strong>Graduate Data Science Student at University of Maryland, Baltimore County</strong> 🎓<br/>
+  💻 <strong>Software Engineer specializing in Backend Development & Data Infrastructure</strong> 💻 <br/>
 
-  I'm **Afshaan Khan**, a passionate data scientist with expertise in **Data Analysis, Machine Learning, and AI**.  
-  I am eager to apply my skills to **healthcare, NLP, and predictive analytics** to drive impactful insights.  
-  Outside of data science, I enjoy **exploring the healthcare sector, coding, and continuous learning**.
+  I'm <strong>Afshaan Khan</strong>, a passionate engineer focused on building scalable systems, intelligent data pipelines, and automation-driven applications.  
+  I thrive at the intersection of <strong>Software Engineering, AI Integration, and Cloud Computing</strong> — designing efficient APIs, automating workflows, and optimizing distributed systems.  
+  Outside of coding, I enjoy experimenting with AI agents, automating real-world tasks, and writing about future tech.  
 
   <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />
   
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
 
-- 👨🏽‍💻 I’m interested in **Machine Learning, NLP, AI, and Healthcare Analytics**.
-- 💬 Ask me about **data science, AI, and Python development**—I’d love to help!
-- 📫 **Reach out via email**: [akhan38@umbc.edu](mailto:akhan38@umbc.edu)
-- 📝 **[My Résumé](https://www.datascienceportfol.io/akhan38)**  
+- 👨‍💻 Currently building automation systems & data apps at **Kahana** and **BusySquirrels (Vivian Contracting LLC)**.  
+- 🚀 Interested in **Backend Systems, Cloud Infrastructure, LLM Apps, and Data Engineering**.  
+- 💬 Ask me about **APIs, distributed systems, and AI integrations** — I love deep technical discussions!  
+- 📫 Reach me at **[akhan38@umbc.edu](mailto:akhan38@umbc.edu)**  
+- 🧾 **[My Résumé](https://www.datascienceportfol.io/akhan38)**  
 
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
 </p>
 
 ---
 
-### 🛠 Core Skills:
-- **Programming, Cloud Computing & Big Data**:  
-  Python (TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, NLTK), R, SQL (PostgreSQL, MySQL)  
-- **Machine Learning & AI**:  
-  Supervised & Unsupervised Learning, Deep Learning, NLP, Predictive Modeling, Feature Engineering  
-- **Data Visualization & MLOps**:  
-  Tableau, Power BI, Excel, Git, GitHub  
+### 🧠 Core Competencies:
+- **Programming & Backend Development:**  
+  Python, Java, C++, JavaScript (Node.js, React), C#, REST APIs, Flask, FastAPI, Spring Boot  
+- **Data Engineering & Infrastructure:**  
+  PostgreSQL, MySQL, MongoDB, Redis, Apache Spark, Airflow, Databricks, ETL Pipelines  
+- **Cloud & DevOps:**  
+  AWS (EC2, Lambda, S3, DynamoDB), Docker, Kubernetes, CI/CD (GitLab, Jenkins), Terraform  
+- **AI, ML & Automation:**  
+  TensorFlow, PyTorch, Scikit-Learn, LangChain, LLaMA, OpenAI APIs, Agentic Workflows  
 
 ---
 
@@ -53,27 +50,26 @@
 - [LinkedIn](https://www.linkedin.com/in/afshaankhan/)
 - [GitHub](https://github.com/afshaankhan)
 - [LeetCode](https://leetcode.com/afshaankhan/)
+- [Medium Blogs](https://medium.com/@afshaankhan) *(Coming soon — AI, Automation & Systems Design)*
 
 ---
 
-### 🛠 Languages and Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🧩 Tools & Technologies:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-💡 **"Data is the new oil, but insight is the refinery!"**  
-🚀 Always exploring, always learning!  
-
+💡 **"Code is poetry in logic — elegant, structured, and endlessly evolving."**  
+🚀 Always building. Always optimizing. Always learning.
