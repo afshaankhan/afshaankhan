@@ -3,68 +3,135 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer | AI & Data Infrastructure</strong>
+  <strong>Senior Generative AI Engineer | RAG & LLM Systems | Cloud AI Platforms</strong>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" alt="Software Engineering and DevOps">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" alt="AI Engineering and Cloud Systems">
 </p>
 
 <h2 align="center">Welcome! I'm Afshaan Khan 👋</h2>
 
 <p align='center'>
-  <strong>Software Engineer specializing in Full Stack & Data Infrastructure</strong> <br/>
 
-  I'm <strong>Afshaan Khan</strong>, a passionate engineer focused on building scalable systems, intelligent data pipelines, and automation-driven applications.  
-  I thrive at the intersection of <strong>Software Engineering, AI Integration, and Cloud Computing</strong> designing efficient APIs, automating workflows, and optimizing distributed systems.  
-  Outside of coding, I enjoy experimenting with AI agents, automating real-world tasks, and writing about future tech.  
-  
+<strong>Senior Generative AI Engineer specializing in LLM Applications, AI Platforms, and Scalable Data Systems</strong> <br/>
+
+I'm <strong>Afshaan Khan</strong>, an engineer passionate about building **enterprise-grade AI systems**, **RAG pipelines**, and **intelligent data-driven applications**.  
+I design scalable platforms that integrate **Large Language Models (LLMs)**, **semantic search**, and **distributed data pipelines** to power intelligent products and automation workflows.
+
+I thrive at the intersection of:
+
+<strong>Generative AI • Distributed Systems • Cloud Platforms • Data Engineering</strong>
+
+Outside of coding, I enjoy experimenting with **AI agents**, designing **knowledge-driven applications**, and exploring emerging **LLM-powered architectures**.
+
 <br/><br/><br/>
-- Currently building automation systems & data apps at **Kahana**.  
-- Interested in **AI Engineering, Full Stack, Cloud Infrastructure, LLM Apps, and Data Engineering**.  
-- Ask me about **APIs, distributed systems, and AI integrations** — I love deep technical discussions!  
-- Reach me at **[afshaank338@gmail.com](mailto:afshaank338@gmail.com)**   
+
+- Currently building **enterprise AI and automation systems at Kahana**  
+- Specializing in **RAG pipelines, LLM workflows, and cloud-native AI platforms**  
+- Interested in **AI Engineering, Backend Systems, ML Platforms, and Distributed Architectures**  
+- Ask me about **RAG systems, APIs, ML pipelines, and scalable AI infrastructure**  
+- Reach me at **[afshaank338@gmail.com](mailto:afshaank338@gmail.com)**  
+
 <br/><br/><br/>
+
 </p>
 
 ---
 
-### Core Competencies:
-- **Programming & Backend Development:**  
-  Python, Java, C++, JavaScript (Node.js, React), C#, REST APIs, Flask, FastAPI, Spring Boot  
-- **Data Engineering & Infrastructure:**  
-  PostgreSQL, MySQL, MongoDB, Redis, Apache Spark, Airflow, Databricks, ETL Pipelines  
-- **Cloud & DevOps:**  
-  AWS (EC2, Lambda, S3, DynamoDB), Docker, Kubernetes, CI/CD (GitLab, Jenkins), Terraform  
-- **AI, ML & Automation:**  
-  TensorFlow, PyTorch, Scikit-Learn, LangChain, LLaMA, OpenAI APIs, Agentic Workflows  
+# 🧠 Core Competencies
+
+### **Generative AI & LLM Systems**
+- Retrieval-Augmented Generation (RAG)  
+- Prompt Engineering & Conversational AI  
+- Semantic Search & Vector Databases  
+- LangChain, LLM Workflows  
+- Multi-turn Conversational Systems  
+- Knowledge Retrieval Platforms  
 
 ---
 
-### Portfolio and Contributions:
-- [LinkedIn](https://www.linkedin.com/in/afshaan-khan)
-- [GitHub](https://github.com/afshaankhan)
-- [LeetCode](https://leetcode.com/afshaankhan/)
-- [Medium Blogs](https://medium.com/@akhan38)
+### **Programming & Backend Engineering**
+- Python, JavaScript, Java, C++, Bash  
+- FastAPI, Flask, REST APIs  
+- Microservices Architecture  
+- Distributed Systems Design  
+- API Integration & Automation  
 
 ---
 
-### Tools & Technologies:
+### **Data Engineering & Machine Learning**
+- Apache Spark, PySpark  
+- Airflow, Prefect  
+- Feature Engineering Pipelines  
+- Recommendation Systems  
+- Demand Forecasting  
+- Model Evaluation & Experimentation  
+
+---
+
+### **Cloud & Infrastructure**
+- **Google Cloud Platform (GCP)**  
+  - Vertex AI  
+  - BigQuery  
+  - Dataflow  
+  - Cloud Storage  
+  - GKE  
+
+- **AWS**
+  - EC2  
+  - S3  
+  - Lambda  
+  - Bedrock  
+
+- **DevOps**
+  - Docker  
+  - Kubernetes  
+  - CI/CD Pipelines  
+  - Terraform  
+
+---
+
+# 🚀 What I'm Currently Focused On
+
+- Building **LLM-powered enterprise systems**
+- Designing **RAG-based knowledge platforms**
+- Developing **scalable AI microservices**
+- Optimizing **cloud-native ML pipelines**
+- Exploring **AI agents & intelligent automation**
+
+---
+
+# 🌐 Portfolio & Contributions
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/afshaan-khan)
+- 💻 [GitHub](https://github.com/afshaankhan)
+- 🧠 [LeetCode](https://leetcode.com/afshaankhan/)
+- ✍️ [Medium Blogs](https://medium.com/@akhan38)
+
+---
+
+# 🛠 Tools & Technologies
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21.svg?style=for-the-badge&logo=apachespark&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212.svg?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
- **"Code is poetry in logic — elegant, structured, and endlessly evolving."**  
-Always building. Always optimizing. Always learning.
+# ⭐ Engineering Philosophy
+
+**"Build intelligent systems that scale, adapt, and create real-world impact."**
+
+Always building.  
+Always optimizing.  
+Always learning.
