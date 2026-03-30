@@ -106,7 +106,6 @@ Outside of coding, I enjoy experimenting with **AI agents**, designing **knowled
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/afshaan-khan)
 - 💻 [GitHub](https://github.com/afshaankhan)
-- 🧠 [LeetCode](https://leetcode.com/afshaankhan/)
 - ✍️ [Medium Blogs](https://medium.com/@akhan38)
 
 ---
