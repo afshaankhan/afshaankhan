@@ -31,7 +31,7 @@ Outside of coding, I enjoy experimenting with **AI agents**, designing **knowled
 - Specializing in **RAG pipelines, LLM workflows, and cloud-native AI platforms**  
 - Interested in **AI Engineering, Backend Systems, ML Platforms, and Distributed Architectures**  
 - Ask me about **RAG systems, APIs, ML pipelines, and scalable AI infrastructure**  
-- Reach me at **[afshaank338@gmail.com](mailto:afshaank338@gmail.com)**  
+- Reach me at **[afshaank21@gmail.com](mailto:afshaank21@gmail.com)**  
 
 <br/><br/><br/>
 
