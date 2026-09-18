@@ -1,136 +1,106 @@
-<p align="center">
-  <img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Languages I Use" />
-</p>
+<h1 align="center">Hi, I'm Afshaan Khan 👋</h1>
 
 <p align="center">
-  <strong>Senior Generative AI Engineer | RAG & LLM Systems | Cloud AI Platforms</strong>
+  <strong>AI / ML Engineer · Machine Learning · LLM Applications · Search & Retrieval</strong>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" alt="AI Engineering and Cloud Systems">
+  Building reliable Python services, evaluating ML models, and turning document collections into searchable information.
 </p>
 
-<h2 align="center">Welcome! I'm Afshaan Khan 👋</h2>
-
-<p align='center'>
-
-<strong>Senior Generative AI Engineer specializing in LLM Applications, AI Platforms, and Scalable Data Systems</strong> <br/>
-
-I'm <strong>Afshaan Khan</strong>, an engineer passionate about building **enterprise-grade AI systems**, **RAG pipelines**, and **intelligent data-driven applications**.  
-I design scalable platforms that integrate **Large Language Models (LLMs)**, **semantic search**, and **distributed data pipelines** to power intelligent products and automation workflows.
-
-I thrive at the intersection of:
-
-<strong>Generative AI • Distributed Systems • Cloud Platforms • Data Engineering</strong>
-
-Outside of coding, I enjoy experimenting with **AI agents**, designing **knowledge-driven applications**, and exploring emerging **LLM-powered architectures**.
-
-<br/><br/><br/>
-
-- Currently building **enterprise AI and automation systems at Kahana**  
-- Specializing in **RAG pipelines, LLM workflows, and cloud-native AI platforms**  
-- Interested in **AI Engineering, Backend Systems, ML Platforms, and Distributed Architectures**  
-- Ask me about **RAG systems, APIs, ML pipelines, and scalable AI infrastructure**  
-- Reach me at **[afshaank21@gmail.com](mailto:afshaank21@gmail.com)**  
-
-<br/><br/><br/>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/afshaan-khan">LinkedIn</a> ·
+  <a href="https://github.com/afshaankhan">GitHub</a> ·
+  <a href="https://medium.com/@akhan38">Medium</a> ·
+  <a href="mailto:afshaank0723@gmail.com">Email</a>
 </p>
 
----
+## About Me
 
-# 🧠 Core Competencies
+I'm a machine learning engineer with experience in manufacturing inference services, AI retrieval, and commercial analytics.
 
-### **Generative AI & LLM Systems**
-- Retrieval-Augmented Generation (RAG)  
-- Prompt Engineering & Conversational AI  
-- Semantic Search & Vector Databases  
-- LangChain, LLM Workflows  
-- Multi-turn Conversational Systems  
-- Knowledge Retrieval Platforms  
+At **Jabil**, I support manufacturing data-processing and inference services, with responsibility for validation and monitoring components. My work includes Python and SQL data-quality checks, FastAPI endpoints, model comparisons, and tests that support reliable releases.
 
----
+Previously, I worked on document ingestion and retrieval during the early development of **Oasis, Kahana's AI browser**. At **Vivian Contracting**, I developed data pipelines, predictive and rules-based analytics, NLP-assisted document processing, and reporting components.
 
-### **Programming & Backend Engineering**
-- Python, JavaScript, Java, C++, Bash  
-- FastAPI, Flask, REST APIs  
-- Microservices Architecture  
-- Distributed Systems Design  
-- API Integration & Automation  
+I hold an **MS in Data Science from the University of Maryland, Baltimore County**, and co-authored published research on sleep apnea detection using physiological features and ensemble machine learning.
 
----
+## Experience
 
-### **Data Engineering & Machine Learning**
-- Apache Spark, PySpark  
-- Airflow, Prefect  
-- Feature Engineering Pipelines  
-- Recommendation Systems  
-- Demand Forecasting  
-- Model Evaluation & Experimentation  
+### Jabil · ML Engineer
+**May 2026 – Present**
 
----
+- Develop FastAPI endpoints with request validation, error handling, and health checks; package services with Docker.
+- Automate Python and SQL data-quality checks, reducing manual validation effort by approximately **20%**.
+- Train and evaluate TensorFlow and XGBoost models using time-based validation and thresholds informed by recall and false-alert rates.
+- Maintain validation and monitoring components, unit and API integration tests, and reproducible artifacts supporting retraining and rollback decisions.
 
-### **Cloud & Infrastructure**
-- **Google Cloud Platform (GCP)**  
-  - Vertex AI  
-  - BigQuery  
-  - Dataflow  
-  - Cloud Storage  
-  - GKE  
+### Kahana · AI Engineer
+**July 2025 – May 2026**
 
-- **AWS**
-  - EC2  
-  - S3  
-  - Lambda  
-  - Bedrock  
+- Took responsibility for document ingestion and retrieval components during early development of **Oasis**.
+- Built document pipelines with chunking, deduplication, source traceability, embeddings, and metadata filtering.
+- Developed agent workflows using Python and LangChain, with Redis Streams for asynchronous handoffs, task state, and retries.
+- Integrated Vertex AI LLMs and evaluated retrieval relevance, groundedness, citation coverage, and latency.
+- Reduced median retrieval latency by **60%** against the initial implementation through asynchronous processing and caching, checking relevance and traceability on the same evaluation set.
 
-- **DevOps**
-  - Docker  
-  - Kubernetes  
-  - CI/CD Pipelines  
-  - Terraform  
+### Vivian Contracting · Machine Learning Engineer
+**August 2024 – May 2025**
 
----
+- Built Python and SQL pipelines for contract-data reconciliation and recurring reporting, reducing preparation time by approximately **25%**.
+- Developed document-processing workflows to extract fields, normalize entities, and connect unstructured content with business records.
+- Compared predictive models with business-rule baselines and documented assumptions, thresholds, and cases requiring human review.
+- Created evaluation summaries and dashboards to communicate model behavior and operational measures.
 
-# 🚀 What I'm Currently Focused On
+## Research & Publication
 
-- Building **LLM-powered enterprise systems**
-- Designing **RAG-based knowledge platforms**
-- Developing **scalable AI microservices**
-- Optimizing **cloud-native ML pipelines**
-- Exploring **AI agents & intelligent automation**
+### AI-Based Sleep Apnea Detection using Multimodal Physiological Features and Ensemble Machine Learning
 
----
+**Co-author · Procedia Computer Science · Volume 283, 2026 · Pages 2132–2141**
 
-# 🌐 Portfolio & Contributions
+Developed signal-processing and feature-extraction workflows for ECG/EEG data and trained ensemble models for sleep apnea detection.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/afshaan-khan)
-- 💻 [GitHub](https://github.com/afshaankhan)
-- ✍️ [Medium Blogs](https://medium.com/@akhan38)
+The published approach combines:
 
----
+- XGBoost and Random Forest
+- Logistic Regression stacking
+- Optuna hyperparameter tuning
+- Isotonic calibration
 
-# 🛠 Tools & Technologies
+**Reported results:** 82.84% accuracy · 58.92% macro-F1 · 0.84 ROC-AUC
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21.svg?style=for-the-badge&logo=apachespark&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212.svg?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+[Read the publication](https://doi.org/10.1016/j.procs.2026.06.286)
 
----
+## Technical Toolkit
 
-# ⭐ Engineering Philosophy
+| Area | Tools and methods |
+|---|---|
+| Programming & data | Python, SQL, Pandas |
+| Machine learning | Scikit-learn, TensorFlow, XGBoost, feature engineering, classification, anomaly detection, ensemble learning |
+| AI & retrieval | LangChain, Vertex AI, LLM integration, embeddings, vector search, semantic retrieval, document processing |
+| Services & workflows | FastAPI, Flask, Docker, Redis Streams, Git, asynchronous processing, caching |
+| Reliability & evaluation | Unit and API integration tests, schema validation, monitoring, time-based validation, retrieval evaluation |
+| Analytics | Tableau, Excel, Matplotlib, Seaborn |
 
-**"Build intelligent systems that scale, adapt, and create real-world impact."**
+## Education & Certifications
 
-Always building.  
-Always optimizing.  
-Always learning.
+**Master of Science in Data Science**  
+University of Maryland, Baltimore County · May 2025
+
+- AWS Certified Cloud Practitioner
+- Generative AI Fundamentals — Databricks
+- AI Agent Fundamentals — Databricks
+
+## How I Approach Engineering
+
+- Start with the data, the problem, and an understandable baseline.
+- Evaluate model quality alongside latency, reliability, and failure cases.
+- Keep experiments, configurations, and artifacts reproducible.
+- Build clear interfaces and document assumptions and limitations.
+- Work with stakeholders to define acceptance criteria and human-review needs.
+
+## Connect
+
+I'm interested in applied machine learning, AI search and discovery, and reliable ML services.
+
+📩 **[afshaank0723@gmail.com](mailto:afshaank0723@gmail.com)**
