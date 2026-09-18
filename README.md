@@ -1,106 +1,134 @@
-<h1 align="center">Hi, I'm Afshaan Khan 👋</h1>
-
 <p align="center">
-  <strong>AI / ML Engineer · Machine Learning · LLM Applications · Search & Retrieval</strong>
+  <img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Languages I Use" />
 </p>
 
 <p align="center">
-  Building reliable Python services, evaluating ML models, and turning document collections into searchable information.
+  <strong>AI / ML Engineer | Machine Learning & LLM Applications | Search & Retrieval</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/afshaan-khan">LinkedIn</a> ·
-  <a href="https://github.com/afshaankhan">GitHub</a> ·
-  <a href="https://medium.com/@akhan38">Medium</a> ·
-  <a href="mailto:afshaank0723@gmail.com">Email</a>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" alt="AI Engineering and Cloud Systems">
 </p>
 
-## About Me
+<h2 align="center">Welcome! I'm Afshaan Khan 👋</h2>
 
-I'm a machine learning engineer with experience in manufacturing inference services, AI retrieval, and commercial analytics.
+<p align="center">
+  <strong>AI / ML Engineer working on Manufacturing Inference Services, AI Retrieval, and Commercial Analytics</strong><br/>
+</p>
 
-At **Jabil**, I support manufacturing data-processing and inference services, with responsibility for validation and monitoring components. My work includes Python and SQL data-quality checks, FastAPI endpoints, model comparisons, and tests that support reliable releases.
+I'm **Afshaan Khan**, a machine learning engineer with experience building **Python services**, **document retrieval workflows**, and **reproducible data pipelines**.  
+I develop and evaluate **machine learning models**, integrate **Large Language Models (LLMs)**, and translate stakeholder requirements into service interfaces and acceptance criteria.
 
-Previously, I worked on document ingestion and retrieval during the early development of **Oasis, Kahana's AI browser**. At **Vivian Contracting**, I developed data pipelines, predictive and rules-based analytics, NLP-assisted document processing, and reporting components.
+I work at the intersection of:
 
-I hold an **MS in Data Science from the University of Maryland, Baltimore County**, and co-authored published research on sleep apnea detection using physiological features and ensemble machine learning.
+<p align="center">
+  <strong>Machine Learning • AI Retrieval • Backend Services • Data Engineering</strong>
+</p>
 
-## Experience
+My work includes **manufacturing inference services at Jabil**, **document ingestion and retrieval during early development of Kahana’s Oasis AI browser**, and **commercial analytics at Vivian Contracting**.
 
-### Jabil · ML Engineer
-**May 2026 – Present**
+<br/><br/><br/>
 
-- Develop FastAPI endpoints with request validation, error handling, and health checks; package services with Docker.
-- Automate Python and SQL data-quality checks, reducing manual validation effort by approximately **20%**.
-- Train and evaluate TensorFlow and XGBoost models using time-based validation and thresholds informed by recall and false-alert rates.
-- Maintain validation and monitoring components, unit and API integration tests, and reproducible artifacts supporting retraining and rollback decisions.
+- Currently supporting **manufacturing data-processing and inference services at Jabil**  
+- Experienced in **ML evaluation, LLM workflows, semantic retrieval, and API development**  
+- Hold an **MS in Data Science from the University of Maryland, Baltimore County**  
+- Co-author of **published research on sleep apnea detection using ensemble machine learning**  
+- Ask me about **retrieval systems, APIs, model evaluation, and data validation**  
+- Reach me at **[afshaank0723@gmail.com](mailto:afshaank0723@gmail.com)**  
 
-### Kahana · AI Engineer
-**July 2025 – May 2026**
+<br/><br/><br/>
 
-- Took responsibility for document ingestion and retrieval components during early development of **Oasis**.
-- Built document pipelines with chunking, deduplication, source traceability, embeddings, and metadata filtering.
-- Developed agent workflows using Python and LangChain, with Redis Streams for asynchronous handoffs, task state, and retries.
-- Integrated Vertex AI LLMs and evaluated retrieval relevance, groundedness, citation coverage, and latency.
-- Reduced median retrieval latency by **60%** against the initial implementation through asynchronous processing and caching, checking relevance and traceability on the same evaluation set.
+---
 
-### Vivian Contracting · Machine Learning Engineer
-**August 2024 – May 2025**
+# 🧠 Core Competencies
 
-- Built Python and SQL pipelines for contract-data reconciliation and recurring reporting, reducing preparation time by approximately **25%**.
-- Developed document-processing workflows to extract fields, normalize entities, and connect unstructured content with business records.
-- Compared predictive models with business-rule baselines and documented assumptions, thresholds, and cases requiring human review.
-- Created evaluation summaries and dashboards to communicate model behavior and operational measures.
+### **Generative AI & LLM Systems**
+- LLM Integration & Agent Workflows  
+- Document Ingestion, Chunking & Source Traceability  
+- Embeddings, Semantic Retrieval & Vector Search  
+- LangChain & Vertex AI  
+- Metadata Filtering & Context Selection  
+- Retrieval Relevance, Groundedness & Citation Evaluation  
 
-## Research & Publication
+---
 
-### AI-Based Sleep Apnea Detection using Multimodal Physiological Features and Ensemble Machine Learning
+### **Programming & Backend Engineering**
+- Python & SQL  
+- FastAPI, Flask & API Development  
+- Request Validation & Error Handling  
+- Asynchronous Workflows & Caching  
+- Redis Streams, Task State & Retries  
+- Unit Testing & API Integration Testing  
 
-**Co-author · Procedia Computer Science · Volume 283, 2026 · Pages 2132–2141**
+---
 
-Developed signal-processing and feature-extraction workflows for ECG/EEG data and trained ensemble models for sleep apnea detection.
+### **Data Engineering & Machine Learning**
+- Pandas & Scikit-learn  
+- TensorFlow & XGBoost  
+- Classification & Anomaly Detection  
+- Feature Engineering & Multilayer Perceptrons  
+- Ensemble Learning & Model Comparisons  
+- Time-Based Validation & Decision Thresholds  
 
-The published approach combines:
+---
 
-- XGBoost and Random Forest
-- Logistic Regression stacking
-- Optuna hyperparameter tuning
-- Isotonic calibration
+### **Cloud & Infrastructure**
+- **Google Cloud Platform (GCP)**  
+  - Vertex AI LLM Integration  
+  - Response Validation & Timeout Handling  
 
-**Reported results:** 82.84% accuracy · 58.92% macro-F1 · 0.84 ROC-AUC
+- **AWS**
+  - AWS Certified Cloud Practitioner  
 
-[Read the publication](https://doi.org/10.1016/j.procs.2026.06.286)
+- **Services & Operations**
+  - Docker  
+  - Git & Version-Controlled Configuration  
+  - Structured Logging & Health Checks  
+  - Service Latency & Input Monitoring  
+  - Reproducible Artifacts, Runbooks & Data Lineage  
 
-## Technical Toolkit
+---
 
-| Area | Tools and methods |
-|---|---|
-| Programming & data | Python, SQL, Pandas |
-| Machine learning | Scikit-learn, TensorFlow, XGBoost, feature engineering, classification, anomaly detection, ensemble learning |
-| AI & retrieval | LangChain, Vertex AI, LLM integration, embeddings, vector search, semantic retrieval, document processing |
-| Services & workflows | FastAPI, Flask, Docker, Redis Streams, Git, asynchronous processing, caching |
-| Reliability & evaluation | Unit and API integration tests, schema validation, monitoring, time-based validation, retrieval evaluation |
-| Analytics | Tableau, Excel, Matplotlib, Seaborn |
+# 🚀 What I'm Currently Focused On
 
-## Education & Certifications
+- Supporting **manufacturing inference and data-processing services**
+- Building **reliable validation and monitoring components**
+- Comparing **TensorFlow and XGBoost models**
+- Evaluating **model quality, recall, and false-alert rates**
+- Maintaining **tested APIs and reproducible ML workflows**
 
-**Master of Science in Data Science**  
-University of Maryland, Baltimore County · May 2025
+---
 
-- AWS Certified Cloud Practitioner
-- Generative AI Fundamentals — Databricks
-- AI Agent Fundamentals — Databricks
+# 🌐 Portfolio & Contributions
 
-## How I Approach Engineering
+- 🔗 [LinkedIn](https://www.linkedin.com/in/afshaan-khan)
+- 💻 [GitHub](https://github.com/afshaankhan)
+- ✍️ [Medium Blogs](https://medium.com/@akhan38)
+- 📄 [Published Research: AI-Based Sleep Apnea Detection using Multimodal Physiological Features and Ensemble Machine Learning](https://doi.org/10.1016/j.procs.2026.06.286)
 
-- Start with the data, the problem, and an understandable baseline.
-- Evaluate model quality alongside latency, reliability, and failure cases.
-- Keep experiments, configurations, and artifacts reproducible.
-- Build clear interfaces and document assumptions and limitations.
-- Work with stakeholders to define acceptance criteria and human-review needs.
+---
 
-## Connect
+# 🛠 Tools & Technologies
 
-I'm interested in applied machine learning, AI search and discovery, and reliable ML services.
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212.svg?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-📩 **[afshaank0723@gmail.com](mailto:afshaank0723@gmail.com)**
+---
+
+# ⭐ Engineering Philosophy
+
+**"Build intelligent systems that scale, adapt, and create real-world impact."**
+
+Always building.  
+Always optimizing.  
+Always learning.
